@@ -7,7 +7,7 @@ git branch -M main
 git add .
 git commit -m "we love to commit"
 git remote add originn https://github.com/Aolajre/installation.git
-git push -uf origin main
+git push -uf originn main
 #Output from config 
 git status
 git remote -v
